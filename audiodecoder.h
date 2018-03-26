@@ -1,5 +1,6 @@
 #ifndef AUDIODECODER_H
 #define AUDIODECODER_H
+#include<speex/speex.h>
 
 class AudioDecoder {
 

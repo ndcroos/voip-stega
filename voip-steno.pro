@@ -25,7 +25,11 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp
+        mainwindow.cpp \
+    audioencoder.cpp \
+    audiodecoder.cpp \
+    speexencoder.cpp \
+    speexdecoder.cpp
 
 HEADERS += \
         mainwindow.h \

@@ -1,0 +1,4 @@
+class SpeexDecoder : public AudioDecoder {
+
+
+};

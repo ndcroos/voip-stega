@@ -1,0 +1,1 @@
+This is a VoIP chat application, where data is hidden in the audio signal.
