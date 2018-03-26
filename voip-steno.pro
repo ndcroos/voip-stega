@@ -29,7 +29,9 @@ SOURCES += \
     audioencoder.cpp \
     audiodecoder.cpp \
     speexencoder.cpp \
-    speexdecoder.cpp
+    speexdecoder.cpp \
+    opusencoder.cpp \
+    opusdecoder.cpp
 
 HEADERS += \
         mainwindow.h \
