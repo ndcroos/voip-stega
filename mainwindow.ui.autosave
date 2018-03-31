@@ -14,7 +14,7 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralWidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="callButton">
     <property name="geometry">
      <rect>
       <x>40</x>
@@ -27,7 +27,7 @@
      <string>Call</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_2">
+   <widget class="QPushButton" name="stopButton">
     <property name="geometry">
      <rect>
       <x>140</x>
@@ -40,7 +40,7 @@
      <string>Stop</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_3">
+   <widget class="QPushButton" name="exitButton">
     <property name="geometry">
      <rect>
       <x>240</x>
@@ -53,7 +53,7 @@
      <string>Exit</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_4">
+   <widget class="QPushButton" name="connectButton">
     <property name="geometry">
      <rect>
       <x>240</x>
@@ -69,8 +69,8 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>60</x>
-      <y>70</y>
+      <x>50</x>
+      <y>90</y>
       <width>47</width>
       <height>13</height>
      </rect>

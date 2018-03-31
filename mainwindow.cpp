@@ -12,3 +12,10 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
+
+void MainWindow::on_connectButton_clicked()
+{
+    // Setup socket connection with destination
+
+    ip::tcp::endpoint
+}

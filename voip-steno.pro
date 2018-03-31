@@ -31,7 +31,10 @@ SOURCES += \
     speexencoder.cpp \
     speexdecoder.cpp \
     opusencoder.cpp \
-    opusdecoder.cpp
+    opusdecoder.cpp \
+    contact.cpp \
+    contactdb.cpp \
+    binarysearchtree.cpp
 
 HEADERS += \
         mainwindow.h \
@@ -43,7 +46,10 @@ HEADERS += \
     steganographydecoder.h \
     networkmodule.h \
     audioencoder.h \
-    audiodecoder.h
+    audiodecoder.h \
+    contact.h \
+    contactdb.h \
+    binarysearchtree.h
 
 FORMS += \
         mainwindow.ui
